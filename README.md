@@ -15,3 +15,8 @@ for more variable learning curve driving
 
   - learning estimation of deep learning autonomous
     driving on various tracks
+
+- observer speed barometer of car speed around
+  track
+
+  - digital rendering cgi on car
